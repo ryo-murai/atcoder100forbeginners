@@ -1,1 +1,2 @@
 - 1: https://judge.u-aizu.ac.jp/onlinejudge/submission_note.jsp
+- 2: https://atcoder.jp/contests/abc106/tasks/abc106_b
