@@ -1,11 +1,3 @@
-def buy_a(a, x, y, pieces):
-    return (a * pieces, x - pieces)
-
-
-def buy_c(c, x, y, pieces):
-    return (c * pieces, x - pieces, y - pieces)
-
-
 def calc(a, b, c, x, y):
     if x <= 0 and y <= 0:
         return 0
